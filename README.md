@@ -2,9 +2,9 @@
 <h3 align="center">A software engineering student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyracnh&label=Profile%20views&color=0e75b6&style=flat" alt="kyracnh" /> </p>
-
+<!--
 [![aanmazir's 42 stats](https://badge.mediaplus.ma/darkblue/aanmazir)](https://github.com/oakoudad/badge42)
-
+-->
 - 🔭 I’m currently working on **Mastic Agency**
 
 - 💬 Ask me about **C/C++/Python/Dart/PHP**
