@@ -5,7 +5,7 @@
 <!--
 [![aanmazir's 42 stats](https://badge.mediaplus.ma/darkblue/aanmazir)](https://github.com/oakoudad/badge42)
 -->
-- 🔭 I’m currently working on **Mastic Agency**
+- 🚀 Software Engineer | 🤖 AI & Blockchain Dev | 🔒 Cybersecurity | Building the Future in Code 💡
 
 - 💬 Ask me about **C/C++/Python/Dart/PHP**
 - 
