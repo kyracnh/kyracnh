@@ -8,13 +8,6 @@
 - 🚀 Software Engineer | 🤖 AI & Blockchain Dev | 🔒 Cybersecurity | Building the Future in Code 💡
 
 - 💬 Ask me about **C/C++/Python/Dart/PHP**
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
 
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
