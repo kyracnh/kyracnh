@@ -15,6 +15,3 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,php,django,flask,flutter,docker,firebase,mongodb,mysql,figma,html,css,tailwindcss,bootstrap,linux,kali,git,github,bash,androidstudio)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyracnh&show_icons=true&locale=en&layout=compact" alt="kyracnh" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyracnh&show_icons=true&locale=en" alt="kyracnh" /></p>
-
